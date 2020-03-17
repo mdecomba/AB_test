@@ -1,5 +1,5 @@
 # Coupon_Profitability_Analysis
-The analysis of the profitability of a coupon from a VTC company
+Increase of one page conversion rate thanks to AB testing
 
 ## Jupyter Notebook rendering
 * Usage of Markdown for a clean result
